@@ -4,6 +4,8 @@ const API = axios.create({
   baseURL: import.meta.env.VITE_API_URL
 });
 
+export default API;
+
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem("sx_token");
   if (token) config.headers.Authorization = `Bearer ${token}`;
