@@ -89,7 +89,7 @@ const AddLectureModal = ({ courseId, onClose, onAdded }) => {
         ) : (
           <div>
             <label className="label">Video File</label>
-            <input type="file" accept="video/*" onChange={(e) => setFile(e.target.files[0])} className="input py-1.5 text-sm" />
+            <input type="file" accept="video/mp4,video/mkv,video/webm" onChange={(e) => setFile(e.target.files[0])} className="input py-1.5 text-sm" />
           </div>
         )}
         <div className="flex gap-3 pt-1">
