@@ -368,3 +368,7 @@ VITE_API_URL=http://localhost:5050
 ```
 
 ---
+
+👨‍💻 Author
+Pritesh Bagul
+B.Tech Computer Engineering Student
