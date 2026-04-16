@@ -2,6 +2,8 @@
 
 This is the Mini Project Of Full Stack Development Lab 
 ---
+Link : https://scholarx-rose.vercel.app
+---
 A full-stack online learning platform inspired by Google Classroom + Physics Wallah. Built with React, Node.js, MongoDB, Socket.io, and WebRTC. 100% free, no payment system.
 This is the Mini Project Of Full Stack Development Lab 
 
