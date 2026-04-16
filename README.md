@@ -2,6 +2,7 @@
 
 A full-stack online learning platform inspired by Google Classroom + Physics Wallah. Built with React, Node.js, MongoDB, Socket.io, and WebRTC. 100% free, no payment system.
 
+
 ---
 
 ## Tech Stack
@@ -367,16 +368,3 @@ VITE_API_URL=http://localhost:5050
 ```
 
 ---
-
-## Notes for Final Year Project / Placement
-
-This project demonstrates:
-- **Full-stack architecture** with MVC backend pattern
-- **Real-time communication** using Socket.io and WebRTC
-- **JWT authentication** with role-based access control
-- **File upload system** with Multer
-- **React patterns** — context, custom hooks, protected routes
-- **Production deployment** on Render + Vercel + MongoDB Atlas
-- **Clean, modular code** that scales
-
-Good luck! 🎓
